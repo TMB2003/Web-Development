@@ -1,2 +1,0 @@
-# vauxsite
-Bicycle site creater
